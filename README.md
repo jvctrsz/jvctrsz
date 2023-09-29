@@ -13,9 +13,9 @@ Estudante de Analise e Desenvolvimento de Sistemas com conhecimento em HTML, CSS
 </div>
 <br>
 
-## Atual projeto.
+## Meu Portfolio.
 
-[![AtualProjeto](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://jvctrsz.github.io/projeto-clone-netflix/)
+[![Meu Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://jvctrsz.github.io/portfolio)
 
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jvctrsz&show_icons=true&theme=transparent)
