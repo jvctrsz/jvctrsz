@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-matias-b42952261/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:joaosteam26@gmail.com)
 
-Estudante de Análise e Desenvolvimento de Sistemas com conhecimento em HTML, CSS e JS. 👨‍💻
+Estudante de Análise e Desenvolvimento de Sistemas com conhecimento em HTML, CSS , JS, React e NodeJs. 👨‍💻
 
 ## Tecnologias que utilizo! 
 
@@ -13,9 +13,10 @@ Estudante de Análise e Desenvolvimento de Sistemas com conhecimento em HTML, CS
 </div>
 <br>
 
-## Meu Portfolio.
+##Projeto atual.
 
-[![Meu Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://jvctrsz.github.io/portfolio)
+Portfólio para tatuadores. 
+[![Meu Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://jvctrsz.github.io/portfolio](https://juliapedrozotattoo.vercel.app/))
 
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jvctrsz&show_icons=true&theme=transparent)
