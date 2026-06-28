@@ -60,7 +60,7 @@ API de controle financeiro pessoal desenvolvida com foco em autenticação, regr
 
 NestJS · TypeScript · PostgreSQL · Prisma · Docker · JWT · Argon2 · Jest
 
-##Contato
+## Contato
 
-- LinkedIn: "linkedin.com/in/jvctrsz" (https://www.linkedin.com/in/jvctrsz)
-- E-mail: "jvictor26dev@gmail.com" (mailto:jvictor26dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jvctrsz)
+- [E-mail](mailto:jvictor26dev@gmail.com)
