@@ -1,23 +1,66 @@
-### Olá! Meu nome é João Victor 😁.
+# João Victor Matias
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-matias-b42952261/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:joao.matias2604@gmail.com)
+Desenvolvedor Front-end com foco em React e TypeScript.
 
-Estudante de Análise e Desenvolvimento de Sistemas com conhecimento em HTML, CSS, Tailwind , Typescript, React e NodeJs. 👨‍💻
+Atuo no desenvolvimento e manutenção de sistemas web, com experiência em componentização e integrações com APIs REST. 
 
-## Tecnologias que utilizo! 
+Também venho aprofundando meus conhecimentos em back-end com NestJS, PostgreSQL e Prisma.
 
-<div style="diplay: inline_block">
- <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
- <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img alt="NodeJs" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-</div>
-<br>
+## Tecnologias principais
 
-## Projeto JpyoArtTattoo.
+### Front-end
 
-[![JypoArtTattoo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://juliapedrozotattoo.vercel.app/)
+React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · React Router · Axios · SWR · Formik · Yup
 
+### Back-end
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jvctrsz&show_icons=true&theme=transparent)
+Node.js · NestJS · PostgreSQL · Prisma · Docker · JWT · Refresh Token
+
+### Experiência em projetos
+
+Next.js · Cloudinary · Vercel · Prisma
+
+## Projetos em destaque
+
+### Julia Pedrozo Tattoo
+
+Site desenvolvido para uma tatuadora, com foco em seu portfólio. Entregando um site intuitivo, responsivo e que representa sua identidade visual.
+
+**Principais pontos:**
+
+- Projeto real publicado em domínio próprio
+- Interface responsiva
+- Portfólio de trabalhos
+- Área administrativa
+- Gerenciamento de imagens
+- Deploy em produção
+
+**Tecnologias:**
+
+Next.js · React · TypeScript · Tailwind CSS · Prisma · Cloudinary · Vercel
+
+---
+
+### Financial API
+
+API de controle financeiro pessoal desenvolvida com foco em autenticação, regras de negócio e organização modular.
+
+**Principais pontos:**
+
+- Autenticação com JWT
+- Refresh token com cookie httpOnly
+- Logout por sessão
+- Rotas protegidas
+- Cadastro de salários, receitas, transações e despesas
+- Relatórios financeiros
+- Isolamento de dados por usuário
+- Banco de dados relacional com Prisma
+
+**Tecnologias:**
+
+NestJS · TypeScript · PostgreSQL · Prisma · Docker · JWT · Argon2 · Jest
+
+##Contato
+
+- LinkedIn: "linkedin.com/in/jvctrsz" (https://www.linkedin.com/in/jvctrsz)
+- E-mail: "jvictor26dev@gmail.com" (mailto:jvictor26dev@gmail.com)
